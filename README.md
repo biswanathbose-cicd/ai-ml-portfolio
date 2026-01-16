@@ -2,7 +2,7 @@
      HERO / BANNER
 ========================= -->
 <p align="center">
-  <img src="assets/banner.jpeg" alt="Banner" width="100%" />
+  <img src="assets/IMG_7910.jpeg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Biswanath Bose</h1>
