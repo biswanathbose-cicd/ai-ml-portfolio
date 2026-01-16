@@ -20,7 +20,7 @@
 ========================= -->
 <p align="center">
   <a href="https://www.linkedin.com/in/biswanath-bose/">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a> •
+  <a href="mailto:bose62492gmail.com">Email</a> •
   <a href="https://github.com/biswanathbose-cicd">GitHub</a> •
   <a href="https://YOUR_PORTFOLIO_SITE/">Portfolio</a> •
   <a href="https://www.youtube.com/@YOUR_CHANNEL">YouTube</a>
@@ -47,7 +47,7 @@
 
 ---
 
-## 🚀 Featured Projects (Recruiter-Friendly)
+## 🚀 Featured Projects
 
 > Each card is designed for a quick 30-second scan: **Problem → Solution → Stack → Links**
 
