@@ -149,10 +149,12 @@
 </p>
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=biswanathbose-cicd&show_icons=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswanathbose-cicd&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=biswanathbose&show_icons=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswanathbose&layout=compact" />
 </p>
+
 
 ### 🔥 Streak
 <p align="center">
