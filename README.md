@@ -124,7 +124,6 @@
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=kubernetes" />
   <img src="https://skillicons.dev/icons?i=terraform" />
-  <img src="https://skillicons.dev/icons?i=Dataiku" />
 
   <!-- Cloud -->
   <img src="https://skillicons.dev/icons?i=aws" />
