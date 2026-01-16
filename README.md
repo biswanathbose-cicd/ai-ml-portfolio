@@ -123,6 +123,8 @@
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=terraform" />
+  <img src="https://skillicons.dev/icons?i=Dataiku" />
 
   <!-- Cloud -->
   <img src="https://skillicons.dev/icons?i=aws" />
@@ -159,8 +161,8 @@
 ---
 
 ## 📬 Contact
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/biswanath-bose/
+- Email: bose6249@gmail.com
 
 ---
 
