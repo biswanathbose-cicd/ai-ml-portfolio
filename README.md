@@ -5,7 +5,7 @@
   <img src="assets/banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">YOUR_NAME</h1>
+<h1 align="center">Biswanath Bose</h1>
 
 <p align="center">
   <b>Senior Data Scientist / AI-ML Engineer • GenAI • RAG • MLOps • Time-Series • Recommenders</b>
@@ -19,9 +19,9 @@
      QUICK LINKS
 ========================= -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/biswanath-bose/">LinkedIn</a> •
   <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a> •
+  <a href="https://github.com/biswanathbose-cicd">GitHub</a> •
   <a href="https://YOUR_PORTFOLIO_SITE/">Portfolio</a> •
   <a href="https://www.youtube.com/@YOUR_CHANNEL">YouTube</a>
 </p>
