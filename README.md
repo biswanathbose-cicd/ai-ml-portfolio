@@ -144,18 +144,19 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/biswanathbose-cicd/ai-ml-portfolio/output/github-contribution-grid-snake.svg" />
+
 </p>
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=biswanathbose-cicd&show_icons=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswanathbose-cicd&layout=compact" />
 </p>
 
 ### 🔥 Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME" />
+  <img src="https://streak-stats.demolab.com?user=biswanathbose-cicd" />
 </p>
 
 ---
